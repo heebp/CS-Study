@@ -4,7 +4,7 @@
 - 매주 목요일 3시
 - 주제 2개 학습 ➔ 마크다운으로 정리 후 PR
 - 10분 내외로 발표 후 팀원들에게 각각 하나씩 문제 출제
-- [주차별 주제](https://github.com/S2gamzaS2/CS-Study.wiki.git)
+- [주차별 주제](https://github.com/S2gamzaS2/CS-Study/wiki)
 
 ## ✅ 주제
 
@@ -105,4 +105,7 @@
 
 ## ✅ 커밋 규칙
 - 커밋 메세지: [카테고리] 주제
-- `git commit -m "[DB] SQL Injection"`
+- 예시
+  ```
+  git commit -m "[DB] SQL Injection"
+  ```
