@@ -1,15 +1,14 @@
 # CS-Study
 
-# ✅ 규칙
+## ✅ 규칙
 - 매주 목요일 3시
-- 주제 2개 학습 ➔ 마크다운으로 정리
+- 주제 2개 학습 ➔ 마크다운으로 정리 후 PR
 - 10분 내외로 발표 후 팀원들에게 각각 하나씩 문제 출제
 
----
 
-# ✅ 주제
+## ✅ 주제
 
-## 🔸 네트워크
+### 🔸 네트워크
 - OSI 7 계층
 - TCP 3 way handshake & 4 way handshake
 - TCP/IP 흐름제어 & 혼잡제어
@@ -20,7 +19,7 @@
 - Blocking,Non-blocking & Synchronous,Asynchronous
 - Blocking & Non-Blocking I/O
 
-## 🔸 운영체제
+### 🔸 운영체제
 - 운영체제와 컴퓨터
 - 메모리 계층
 - 프로세스와 스레드
@@ -40,8 +39,7 @@
 - 멀티프로세스, 스레드와 멀티스레딩
 
 
-
-## 🔸 데이터베이스
+### 🔸 데이터베이스
 - 키(Key)
 - SQL - JOIN
 - SQL Injection
@@ -54,7 +52,7 @@
 - 저장 프로시저(Stored PROCEDURE)
 - 레디스(Redis)
 
-## 🔸 자바
+### 🔸 자바
 - 객체지향(상속, 다형성, 캡슐화 등)
 - JVM 메모리 구조
 - 컴파일 과정
@@ -78,7 +76,7 @@
 - Abstract Class vs Interface(default method)
 - CountDownLatch & CyclicBarrier
 
-## 🔸 스프링
+### 🔸 스프링
 - 웹 애플리케이션 이해
 - 서블릿
 - JSP
@@ -95,7 +93,7 @@
 - @Valid 사용해서 DTO 검증
 - Spring Security 개념, 인증 처리 과정, currentUser 정보
 
-## 🔸 JPA
+### 🔸 JPA
 - JPA와 Hibernate
 - 영속성 컨텍스트(캐시, 동일성보장, 변경감지, 트랜잭션 지연)
 - Eager, Lazy Loading
