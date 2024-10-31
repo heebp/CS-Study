@@ -4,7 +4,7 @@
 - 매주 목요일 3시
 - 주제 2개 학습 ➔ 마크다운으로 정리 후 PR
 - 10분 내외로 발표 후 팀원들에게 각각 하나씩 문제 출제
-
+- [주차별 주제](https://github.com/S2gamzaS2/CS-Study.wiki.git)
 
 ## ✅ 주제
 
@@ -39,7 +39,7 @@
 - 멀티프로세스, 스레드와 멀티스레딩
 
 
-### 🔸 데이터베이스
+### 🔸 DB
 - 키(Key)
 - SQL - JOIN
 - SQL Injection
@@ -52,7 +52,7 @@
 - 저장 프로시저(Stored PROCEDURE)
 - 레디스(Redis)
 
-### 🔸 자바
+### 🔸 JAVA
 - 객체지향(상속, 다형성, 캡슐화 등)
 - JVM 메모리 구조
 - 컴파일 과정
@@ -76,7 +76,7 @@
 - Abstract Class vs Interface(default method)
 - CountDownLatch & CyclicBarrier
 
-### 🔸 스프링
+### 🔸 Spring
 - 웹 애플리케이션 이해
 - 서블릿
 - JSP
@@ -100,3 +100,9 @@
 - n+1 문제
 - 다대다 해결 전략
 - JPA의 캐시
+
+<br>
+
+## ✅ 커밋 규칙
+- 커밋 메세지: [카테고리] 주제
+- `git commit -m "[DB] SQL Injection"`
