@@ -38,3 +38,5 @@ TCP 3 way handshake & 4 way handshake
 - 아직 서버로부터 받지 못한 데이터가 있을수 있으므로 TIME-WAIT 상태로 변경
 - TIME-WAIT는 세션이 종료되고 FIN segment보다 늦게 도착하는 패킷이 유실될 것을 대비해 일정시간 기다리는걸 말한다.
 - 서버는 ACK segment를 받고 CLOSED 상태로 변경되고 클라이언트도 일정 시간이 지나면 CLOSED 상태로 변경된다.
+
+![4 way handshake 이미지](/Network/images/4wayhandshake.jpeg)
