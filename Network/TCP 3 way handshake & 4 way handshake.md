@@ -17,6 +17,6 @@ TCP 3 way handshake & 4 way handshake
 
 > [step 3] 클라이언트에서 서버의 연결 요청에 대한 ACK segment를 전송한다. 서버는 ACK segment를 받고 연결이 되어 ESTABLISHED 상태가 된다.
 
-![3 way handshake 이미지](/Network/images/3-way-handshake.jpeg)
+![3 way handshake 이미지](/Network/images/3-way-handshake.png)
 
 ## 3. 3 way handshake TCP 헤더 필드
