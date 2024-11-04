@@ -6,5 +6,19 @@ CPU 스케줄링 알고리즘
 - 이 때 다양한 스케줄링 알고리즘을 사용하고 있는데 다음을 통해 알아보자
 
 ## 2. 선점형 스케줄링
+> 라운드 로빈(RR : Round Robin)
+- 라운드 로빈 알고리즘 방식으로 CPU가 할당된 프로세스를 강제로 중단시켜 다른 CPU에 할당시키는 방식
+- 처리 시간이 긴 프로세스의 독점을 막을 수 있다는 장점이 있지만 잦은 교환이 발생할 수 있다는 단점이 있다.
+  
+[!라운드 로빈 이미지](/OperatingSystem/images/roundrobin.png)
+
+> 다단계 큐(Multilevel Queue)
+
+> 다단계 피드백 큐 (Multilevel Feedback Queue)
 
 ## 3. 비선점형 스케줄링
+> 선입 선처리(FCFS : First Come First Served)
+
+> 최단 작업 우선(SJF : Shortest Job First)
+
+> 우선순위 (Priority)
