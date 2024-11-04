@@ -34,6 +34,11 @@ TCP 3 way handshake & 4 way handshake
 > [step 3] 서버에서 처리를 완료했다면 연결을 종료하겠다는 FIN segment를 클라이언트에 전달한다.
 - 서버는 클라이언트로부터 ACK segment를 받을때까지 LAST-ACK 상태로 변경
 
+### 참고 자료
+- https://mindnet.tistory.com/entry/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-22%ED%8E%B8-TCP-3-WayHandshake-4-WayHandshake
+- https://hojunking.tistory.com/106
+- https://bangu4.tistory.com/74
+- https://hojunking.tistory.com/107
 > [step 4] 클라이언트는 FIN segment를 수신하고 ACK를 서버에 전달한다.
 - 아직 서버로부터 받지 못한 데이터가 있을수 있으므로 TIME-WAIT 상태로 변경
 - TIME-WAIT는 세션이 종료되고 FIN segment보다 늦게 도착하는 패킷이 유실될 것을 대비해 일정시간 기다리는걸 말한다.
