@@ -8,5 +8,15 @@ TCP 3 way handshake & 4 way handshake
 
 ![악수 이미지](/Network/images/handshake.jpeg)
 
-## 2. 
-## 3. 
+## 2. 3 way handshake 절차
+> [step 1] 클라이언트가 서버에 연결에 대한 SYN segment를 요청하고 서버에서 클라이언트의 SYN segment를 수신한다.
+- 클라이언트는 서버의 ACK segment를 기다리는 SYN-SENT 상태
+
+> [step 2] 서버가 클라이언트에게 수신에 대한 ACK segment를 전송하고 연결에 대한 SYN segment를 요청한다. 클라이언트에서 ACK segment를 받으면 연결이 되어 ESTABLISHED 상태가 된다.
+- 서버는 클라이언트의 요청에 응답한 SYN_RCVD 상태
+
+> [step 3] 클라이언트에서 서버의 연결 요청에 대한 ACK segment를 전송한다. 서버는 ACK segment를 받고 연결이 되어 ESTABLISHED 상태가 된다.
+
+![3 way handshake 이미지](/Network/images/3-way-handshake.jpeg)
+
+## 3. 3 way handshake TCP 헤더 필드
