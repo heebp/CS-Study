@@ -9,7 +9,7 @@
 ## ✅ 주제
 
 ### 🔸 네트워크
-- OSI 7 계층
+- [OSI 7 계층](https://github.com/S2gamzaS2/CS-Study/blob/main/Network/OSI%207%EA%B3%84%EC%B8%B5.md)
 - [TCP 3 way handshake & 4 way handshake](https://github.com/S2gamzaS2/CS-Study/blob/main/Network/TCP%203%20way%20handshake%20%26%204%20way%20handshake.md)
 - TCP/IP 흐름제어 & 혼잡제어
 - TCPvsUDP
@@ -25,7 +25,7 @@
 - 프로세스와 스레드
 - [CPU 스케줄링 알고리즘](https://github.com/S2gamzaS2/CS-Study/blob/main/OperatingSystem/CPU%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
 - [인터럽트(Interrupt)](https://github.com/S2gamzaS2/CS-Study/blob/main/OperatingSystem/%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8(Interrupt).md)
-- 시스템 콜(System Call)
+- [시스템 콜(System Call)](https://github.com/S2gamzaS2/CS-Study/blob/main/OperatingSystem/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%BD%9C(System%20Call).md)
 - PCB와 Context Switching
 - 주소 공간과 가상 메모리(Address Space, Virtual Memory)
 - 주소 변환(Address Translation)
