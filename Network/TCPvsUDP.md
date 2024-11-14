@@ -70,3 +70,15 @@
 ## TCP와 UDP 비교
 
 ![표로 비교하는 TCP vs UDP](/Network/images/tcpvsudp2.png)
+
+<br>
+
+### 참고자료
+
+https://dev-coco.tistory.com/144
+
+https://chanhan.tistory.com/entry/CS-TCP%EC%99%80-UDP%EB%9E%80
+
+https://docs.tosspayments.com/resources/glossary/tcp
+
+https://developer.mozilla.org/ko/docs/Glossary/UDP
