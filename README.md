@@ -12,7 +12,7 @@
 - [OSI 7 계층](https://github.com/S2gamzaS2/CS-Study/blob/main/Network/OSI%207%EA%B3%84%EC%B8%B5.md)
 - [TCP 3 way handshake & 4 way handshake](https://github.com/S2gamzaS2/CS-Study/blob/main/Network/TCP%203%20way%20handshake%20%26%204%20way%20handshake.md)
 - TCP/IP 흐름제어 & 혼잡제어
-- TCPvsUDP
+- [TCPvsUDP](https://github.com/S2gamzaS2/CS-Study/blob/main/Network/TCPvsUDP.md)
 - 대칭키 & 공개키
 - [HTTP & HTTPS](https://github.com/S2gamzaS2/CS-Study/blob/main/Network/HTTP%26HTTPS.md)
 - 로드 밸런싱(Load Balancing)
@@ -21,7 +21,7 @@
 
 ### 🔸 운영체제
 - 운영체제와 컴퓨터
-- 메모리 계층
+- [메모리 계층](https://github.com/S2gamzaS2/CS-Study/blob/main/OperatingSystem/%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B3%84%EC%B8%B5.md)
 - 프로세스와 스레드
 - [CPU 스케줄링 알고리즘](https://github.com/S2gamzaS2/CS-Study/blob/main/OperatingSystem/CPU%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
 - [인터럽트(Interrupt)](https://github.com/S2gamzaS2/CS-Study/blob/main/OperatingSystem/%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8(Interrupt).md)
