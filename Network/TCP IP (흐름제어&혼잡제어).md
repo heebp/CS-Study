@@ -51,6 +51,8 @@
 #### Stop and Wait
 ![263B7D4E5715ECEB32](https://github.com/user-attachments/assets/bb4cf68e-4a60-4839-9b53-863ece8a6c88)
 
+
+
 - 매번 전송한 패킷에 대해 확인 응답을 받아야만 다음 패킷을 전송하는 방식
 
 #### Sliding Window (Go-Back-N ARQ)
@@ -68,6 +70,8 @@ LastByteSent - LastByteAcked <= ReceivecWindowAdvertised
 - 각 패킷의 전달이 확인되면 윈도우를 이동하여 다음 패킷 전송
 ![253F7E485715ED5F27](https://github.com/user-attachments/assets/4484d6eb-77c1-41bc-8dc7-de5093493f09)
 
+
+
 - **Network**:
 - TCP/IP를 사용하는 모든 호스트들은 송신하기 위한 것과 수신하기 위한 2개의 Window를 가지고 있다. 호스트들은 실제 데이터를 보내기 전에 '3 way handshaking'을 통해 수신 호스트의 receive window size에 자신의 send window size를 맞추게 된다.
 
@@ -75,18 +79,26 @@ LastByteSent - LastByteAcked <= ReceivecWindowAdvertised
 - **1. 송신 버퍼**:
   ![22532F485715EDF218](https://github.com/user-attachments/assets/c0893359-5f3d-4a40-92a9-7348ce567901)
 
+  
+
 - 200 이전: 이미 전송되고 ACK 수신 완료
 - 200 ~ 202: 전송되었으나 ACK 받지 못한 상태
 - 203 ~ 211: 아직 전송되지 않은 상태
 - **2. 수신 윈도우**:
   ![25403A485715EE362B](https://github.com/user-attachments/assets/6ad61a8b-c6b7-4218-9daf-76adbab8dd4e)
 
+  
+
 - **3. 송신 윈도우**:
   ![2520244B5715EE6A14](https://github.com/user-attachments/assets/b470b933-0f71-4f44-a0ca-38b5a0bc70ea)
+
+  
 
 - 송신 윈도우보다 작거나 같은 크기로 지정해 흐름제어 가능
 - **4. 송신 윈도우 이동**:
   ![227DC8505715EEBA0A](https://github.com/user-attachments/assets/007329b2-1c9f-4afb-b7ad-0899836f3024)
+
+  
 
 - Before: 203~204 전송 후 수신측은 ACK 203 전송
 - After: 송신측은 205~209 전송 가능 상태로 윈도우 이동
