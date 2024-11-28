@@ -49,6 +49,8 @@
 
 ### 해결 방법
 #### Stop and Wait
+![263B7D4E5715ECEB32](https://github.com/user-attachments/assets/bb4cf68e-4a60-4839-9b53-863ece8a6c88)
+
 - 매번 전송한 패킷에 대해 확인 응답을 받아야만 다음 패킷을 전송하는 방식
 
 #### Sliding Window (Go-Back-N ARQ)
