@@ -11,18 +11,18 @@
 ### 🔸 네트워크
 - [OSI 7 계층](https://github.com/S2gamzaS2/CS-Study/blob/main/Network/OSI%207%EA%B3%84%EC%B8%B5.md)
 - [TCP 3 way handshake & 4 way handshake](https://github.com/S2gamzaS2/CS-Study/blob/main/Network/TCP%203%20way%20handshake%20%26%204%20way%20handshake.md)
-- TCP/IP 흐름제어 & 혼잡제어
+- [TCP/IP 흐름제어 & 혼잡제어](https://github.com/S2gamzaS2/CS-Study/blob/main/Network/TCP%20IP%20(%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%26%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4).md)
 - [TCPvsUDP](https://github.com/S2gamzaS2/CS-Study/blob/main/Network/TCPvsUDP.md)
-- 대칭키 & 공개키
+- [대칭키 & 공개키](https://github.com/S2gamzaS2/CS-Study/blob/main/Network/%EB%8C%80%EC%B9%AD%ED%82%A4%20%26%20%EA%B3%B5%EA%B0%9C%ED%82%A4.md)
 - [HTTP & HTTPS](https://github.com/S2gamzaS2/CS-Study/blob/main/Network/HTTP%26HTTPS.md)
 - 로드 밸런싱(Load Balancing)
 - Blocking,Non-blocking & Synchronous,Asynchronous
 - Blocking & Non-Blocking I/O
 
 ### 🔸 운영체제
-- 운영체제와 컴퓨터
+- [운영체제와 컴퓨터](https://github.com/S2gamzaS2/CS-Study/blob/main/Network/%EB%8C%80%EC%B9%AD%ED%82%A4%20%26%20%EA%B3%B5%EA%B0%9C%ED%82%A4.md)
 - [메모리 계층](https://github.com/S2gamzaS2/CS-Study/blob/main/OperatingSystem/%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B3%84%EC%B8%B5.md)
-- 프로세스와 스레드
+- [프로세스와 스레드](https://github.com/S2gamzaS2/CS-Study/blob/main/OperatingSystem/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
 - [CPU 스케줄링 알고리즘](https://github.com/S2gamzaS2/CS-Study/blob/main/OperatingSystem/CPU%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
 - [인터럽트(Interrupt)](https://github.com/S2gamzaS2/CS-Study/blob/main/OperatingSystem/%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8(Interrupt).md)
 - [시스템 콜(System Call)](https://github.com/S2gamzaS2/CS-Study/blob/main/OperatingSystem/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%BD%9C(System%20Call).md)
