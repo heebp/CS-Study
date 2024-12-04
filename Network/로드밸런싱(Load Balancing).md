@@ -141,8 +141,3 @@ EX) RAM 4GB → 32GB 늘리기 / 더 좋은 CPU 교체 <br>
 - 모든 로드밸런서가 동시에 트래픽을 처리
 - 현업에서 가장 많이 사용되는 방식
 
-<br>
-
----
-
-###### https://www.youtube.com/watch?v=9_6COPOMZvI
