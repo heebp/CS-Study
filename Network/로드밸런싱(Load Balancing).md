@@ -13,10 +13,10 @@
 : 로드 밸런싱 해주는 모듈 <br>
 
 - 주요 기능
-- 부하 분산
-- 오토 스케일링
-- Health Check : 해당 포트에 트래픽을 보내 애플리케이션이 올바르게 작동하는지 판별
-- 보안 서비스 WAF, NAT
+  - 부하 분산
+  - 오토 스케일링
+  - Health Check : 해당 포트에 트래픽을 보내 애플리케이션이 올바르게 작동하는지 판별
+  - 보안 서비스 WAF, NAT
 
 <br>
 
@@ -34,13 +34,12 @@ EX) RAM 4GB → 32GB 늘리기 / 더 좋은 CPU 교체 <br>
 
 - 단순히 머신 하나의 늘리는 정도는 한계가 있음, 기술의 한계 有
 
-<br>
-
 ### 2. Horizontal Scale-Out
 
 : idea - 한 대로 처리할 것을 N대로 처리 <br>
 : **분산 시스템 구축** <br>
-➡ **로드밸런싱**
+➡ **로드밸런싱** <br>
+
 ![](/Network/images/loadbalance.png)
 
 <br>
@@ -125,7 +124,7 @@ EX) RAM 4GB → 32GB 늘리기 / 더 좋은 CPU 교체 <br>
 ## 🤔만약 로드밸런서가 죽으면?
 
 - 서비스도 죽는다^.^
-- 특정 포인트에서 에너가 났을 때 전체 시스템이 다운되는 경우 → SPOF(Single Point of Failure)
+- 특정 포인트에서 에너가 났을 때 전체 시스템이 다운되는 경우 → SPOF(Single Point of Failure) <br>
   ➡ **로드밸런서 자체도 Scale-Out 할 필요가 있는 모듈**
 
 <br>
@@ -146,4 +145,4 @@ EX) RAM 4GB → 32GB 늘리기 / 더 좋은 CPU 교체 <br>
 
 ---
 
-##### https://www.youtube.com/watch?v=9_6COPOMZvI
+###### https://www.youtube.com/watch?v=9_6COPOMZvI
