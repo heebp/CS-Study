@@ -15,7 +15,7 @@
 - [TCPvsUDP](https://github.com/S2gamzaS2/CS-Study/blob/main/Network/TCPvsUDP.md)
 - [대칭키 & 공개키](https://github.com/S2gamzaS2/CS-Study/blob/main/Network/%EB%8C%80%EC%B9%AD%ED%82%A4%20%26%20%EA%B3%B5%EA%B0%9C%ED%82%A4.md)
 - [HTTP & HTTPS](https://github.com/S2gamzaS2/CS-Study/blob/main/Network/HTTP%26HTTPS.md)
-- 로드 밸런싱(Load Balancing)
+- [로드 밸런싱(Load Balancing)](https://github.com/S2gamzaS2/CS-Study/blob/main/Network/%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%8B%B1(Load%20Balancing).md)
 - Blocking,Non-blocking & Synchronous,Asynchronous
 - Blocking & Non-Blocking I/O
 
@@ -29,8 +29,7 @@
 - PCB와 Context Switching
 - 주소 공간과 가상 메모리(Address Space, Virtual Memory)
 - 주소 변환(Address Translation)
-- 세그먼테이션(Segmentation)
-- 페이징(Paging)
+- [세그먼테이션(Segmentation) / 페이징(Paging)](https://github.com/S2gamzaS2/CS-Study/blob/main/OperatingSystem/%ED%8E%98%EC%9D%B4%EC%A7%95%EA%B3%BC%20%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%85%8C%EC%9D%B4%EC%85%98.md)
 - 가상메모리와 요구 페이징, 페이지 교체
 - TLB(Translation Lookaside Buffers)
 - Paging : Smaller Table
