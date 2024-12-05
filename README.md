@@ -16,8 +16,8 @@
 - [대칭키 & 공개키](https://github.com/S2gamzaS2/CS-Study/blob/main/Network/%EB%8C%80%EC%B9%AD%ED%82%A4%20%26%20%EA%B3%B5%EA%B0%9C%ED%82%A4.md)
 - [HTTP & HTTPS](https://github.com/S2gamzaS2/CS-Study/blob/main/Network/HTTP%26HTTPS.md)
 - [로드 밸런싱(Load Balancing)](https://github.com/S2gamzaS2/CS-Study/blob/main/Network/%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%8B%B1(Load%20Balancing).md)
-- Blocking,Non-blocking & Synchronous,Asynchronous
-- Blocking & Non-Blocking I/O
+- Blocking,Non-blocking & [Synchronous,Asynchronous](https://github.com/S2gamzaS2/CS-Study/blob/main/Network/%EB%8F%99%EA%B8%B0%EC%99%80%20%EB%B9%84%EB%8F%99%EA%B8%B0%20.md)
+- [Blocking & Non-Blocking I/O](https://github.com/S2gamzaS2/CS-Study/blob/main/Network/Blocking%20%26%20Non-Blocking.md)
 
 ### 🔸 운영체제
 - [운영체제와 컴퓨터](https://github.com/S2gamzaS2/CS-Study/blob/main/Network/%EB%8C%80%EC%B9%AD%ED%82%A4%20%26%20%EA%B3%B5%EA%B0%9C%ED%82%A4.md)
@@ -26,12 +26,12 @@
 - [CPU 스케줄링 알고리즘](https://github.com/S2gamzaS2/CS-Study/blob/main/OperatingSystem/CPU%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
 - [인터럽트(Interrupt)](https://github.com/S2gamzaS2/CS-Study/blob/main/OperatingSystem/%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8(Interrupt).md)
 - [시스템 콜(System Call)](https://github.com/S2gamzaS2/CS-Study/blob/main/OperatingSystem/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%BD%9C(System%20Call).md)
-- PCB와 Context Switching
-- 주소 공간과 가상 메모리(Address Space, Virtual Memory)
-- 주소 변환(Address Translation)
+- [PCB와 Context Switching](https://github.com/S2gamzaS2/CS-Study/blob/main/OperatingSystem/PCB%EC%99%80%20Context%20Switching.md)
+- [주소 공간과 가상 메모리(Address Space, Virtual Memory)](https://github.com/S2gamzaS2/CS-Study/blob/main/OperatingSystem/%EC%A3%BC%EC%86%8C%20%EA%B3%B5%EA%B0%84%EA%B3%BC%20%EA%B0%80%EC%83%81%20%EB%A9%94%EB%AA%A8%EB%A6%AC(Address%20Space%2C%20Virtual%20Memory).md)
+- [주소 변환(Address Translation)](https://github.com/S2gamzaS2/CS-Study/blob/main/OperatingSystem/%EC%A3%BC%EC%86%8C%EB%B3%80%ED%99%98.md)
 - [세그먼테이션(Segmentation) / 페이징(Paging)](https://github.com/S2gamzaS2/CS-Study/blob/main/OperatingSystem/%ED%8E%98%EC%9D%B4%EC%A7%95%EA%B3%BC%20%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%85%8C%EC%9D%B4%EC%85%98.md)
-- 가상메모리와 요구 페이징, 페이지 교체
-- TLB(Translation Lookaside Buffers)
+- [가상메모리와 요구 페이징, 페이지 교체](https://github.com/S2gamzaS2/CS-Study/blob/main/OperatingSystem/%EA%B0%80%EC%83%81%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%99%80%20%EC%9A%94%EA%B5%AC%20%ED%8E%98%EC%9D%B4%EC%A7%95%2C%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B5%90%EC%B2%B4.md)
+- [TLB(Translation Lookaside Buffers)](https://github.com/S2gamzaS2/CS-Study/blob/main/OperatingSystem/TLB(Translation%20Lookaside%20Buffers).md)
 - Paging : Smaller Table
 - 동기화(스핀락, 세마포어, 뮤텍스)
 - 교착상태(DeadLock)
