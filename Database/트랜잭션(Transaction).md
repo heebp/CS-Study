@@ -28,7 +28,7 @@
 
 > 트랜잭션의 상태 변화
 
-![가상메모리 이미지](/Database/images/transaction.png)
+![트랜잭션 이미지](/Database/images/transaction.png)
 
   - 활동(Active) : 트랜잭션 실행 상태
   - 부분완료(Partially Committed) : 마지막 연산까지 실행하고 commit 연산이 실행되지 직전의 상태
