@@ -32,10 +32,10 @@
 - [세그먼테이션(Segmentation) / 페이징(Paging)](https://github.com/S2gamzaS2/CS-Study/blob/main/OperatingSystem/%ED%8E%98%EC%9D%B4%EC%A7%95%EA%B3%BC%20%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%85%8C%EC%9D%B4%EC%85%98.md)
 - [가상메모리와 요구 페이징, 페이지 교체](https://github.com/S2gamzaS2/CS-Study/blob/main/OperatingSystem/%EA%B0%80%EC%83%81%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%99%80%20%EC%9A%94%EA%B5%AC%20%ED%8E%98%EC%9D%B4%EC%A7%95%2C%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B5%90%EC%B2%B4.md)
 - [TLB(Translation Lookaside Buffers)](https://github.com/S2gamzaS2/CS-Study/blob/main/OperatingSystem/TLB(Translation%20Lookaside%20Buffers).md)
-- [Paging : Smaller Table[(https://github.com/S2gamzaS2/CS-Study/blob/main/OperatingSystem/Paging%20Smaller%20Table.md)
+- [Paging : Smaller Table](https://github.com/S2gamzaS2/CS-Study/blob/main/OperatingSystem/Paging%20Smaller%20Table.md)
 - [동기화(스핀락, 세마포어, 뮤텍스)](https://github.com/S2gamzaS2/CS-Study/blob/main/OperatingSystem/%EB%8F%99%EA%B8%B0%ED%99%94(%EC%8A%A4%ED%95%80%EB%9D%BD%2C%20%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4%2C%20%EB%AE%A4%ED%85%8D%EC%8A%A4).md)
 - [교착상태(DeadLock)](https://github.com/S2gamzaS2/CS-Study/blob/main/OperatingSystem/%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C(DeadLock).md)
-- [멀티프로세스, 스레드와 멀티스레딩[(https://github.com/S2gamzaS2/CS-Study/blob/main/OperatingSystem/%EB%A9%80%ED%8B%B0%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%2C%20%EC%8A%A4%EB%A0%88%EB%93%9C%EC%99%80%20%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%94%A9.md)
+- [멀티프로세스, 스레드와 멀티스레딩](https://github.com/S2gamzaS2/CS-Study/blob/main/OperatingSystem/%EB%A9%80%ED%8B%B0%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%2C%20%EC%8A%A4%EB%A0%88%EB%93%9C%EC%99%80%20%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%94%A9.md)
 
 
 ### 🔸 DB
