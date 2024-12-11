@@ -70,4 +70,30 @@
 
 다른 릴레이션의 기본키를 참조하는 속성 또는 속성들의 집합
 
--
+- 두 개 이상의 테이블을 연결하는데 사용
+
+- 외래키로 지정되면 참조 릴레이션의 기본키에 없는 값은 입력 불가
+
+![Foreign Key](/Database/images/foreignkey.png)
+
+<br>
+
+## 유니크키(Unique Key)
+
+데이터베이스에서 테이블에 존재하는 특정 컬럼(열)의 값이 모두 다르도록 제약을 걸어둔 것
+
+- 테이블 내에는 여러 개의 유니크키가 존재 가능
+
+- 유니크 키는 빈값 또는 NULL 값을 허용하는 데이터베이스도 있으나, NOT NULL 제약 조건을 걸어두는 것을 권장
+
+![Unique Key](/Database/images/uniquekey.png)
+
+<br>
+
+### 참고자료
+
+https://www.geeksforgeeks.org/types-of-keys-in-relational-model-candidate-super-primary-alternate-and-foreign/
+
+https://adjh54.tistory.com/245
+
+https://inpa.tistory.com/entry/DB-%F0%9F%93%9A-%ED%82%A4KEY-%EC%A2%85%EB%A5%98-%F0%9F%95%B5%EF%B8%8F-%EC%A0%95%EB%A6%AC
