@@ -43,8 +43,8 @@
 - SQL - JOIN
 - SQL Injection
 - SQL vs NoSQL
-- 이상(Anomaly)
-- 정규화
+- [이상(Anomaly)](https://github.com/S2gamzaS2/CS-Study/blob/main/Database/%EC%9D%B4%EC%83%81%ED%98%84%EC%83%81(Anomaly).md)
+- [정규화](https://github.com/S2gamzaS2/CS-Study/blob/main/Database/%EC%A0%95%EA%B7%9C%ED%99%94.md)
 - [인덱스(INDEX)](https://github.com/S2gamzaS2/CS-Study/blob/main/Database/%EC%9D%B8%EB%8D%B1%EC%8A%A4.md)
 - [트랜잭션(Transaction)](https://github.com/S2gamzaS2/CS-Study/blob/main/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98(Transaction).md)
 - [트랜잭션 격리 수준(Transaction Isolation Level)](https://github.com/S2gamzaS2/CS-Study/blob/main/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%20%EA%B2%A9%EB%A6%AC%20%EC%88%98%EC%A4%80(Transaction%20Isolation%20Level).md)
