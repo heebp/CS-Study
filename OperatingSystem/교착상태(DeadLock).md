@@ -7,6 +7,10 @@
 
 ![교착상태](https://github.com/user-attachments/assets/e4ca9726-326e-4e7d-988c-9f719be26229)
 
+##식사하는 철학자 예시
+![image (7)](https://github.com/user-attachments/assets/53c6cc96-ec88-4dad-882f-6bbb2c7b6906)
+
+
 ---
 
 ## 자원 할당 그래프
