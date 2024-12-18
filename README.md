@@ -39,10 +39,10 @@
 
 
 ### 🔸 DB
-- 키(Key)
-- SQL - JOIN
-- SQL Injection
-- SQL vs NoSQL
+- [키(Key)](https://github.com/S2gamzaS2/CS-Study/blob/main/Database/%ED%82%A4(Key).md)
+- [SQL - JOIN](https://github.com/S2gamzaS2/CS-Study/blob/main/Database/SQL%20-%20JOIN.md)
+- [SQL Injection](https://github.com/S2gamzaS2/CS-Study/blob/main/Database/SQL%20Injection.md)
+- [SQL vs NoSQL](https://github.com/S2gamzaS2/CS-Study/blob/main/Database/SQL%20vs%20NoSQL.md)
 - [이상(Anomaly)](https://github.com/S2gamzaS2/CS-Study/blob/main/Database/%EC%9D%B4%EC%83%81%ED%98%84%EC%83%81(Anomaly).md)
 - [정규화](https://github.com/S2gamzaS2/CS-Study/blob/main/Database/%EC%A0%95%EA%B7%9C%ED%99%94.md)
 - [인덱스(INDEX)](https://github.com/S2gamzaS2/CS-Study/blob/main/Database/%EC%9D%B8%EB%8D%B1%EC%8A%A4.md)
