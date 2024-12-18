@@ -61,7 +61,6 @@ primitiveTest()의 v 변수와 add()의 num은 아예 연관 없는 변수이기
 Stack 영역 내부에 primitiveTest()와 add()의 영역이 각각 나뉘어 있고, 서로 다른 변수가 존재한다.
 그래서 num 값에 1을 더해도 v 변수는 아무런 영향이 없다.
 따라서 원시 타입의 전달은 값을 복사해서 전달하는 Call by Value 방식으로 동작한다는 것을 알 수 있다.
-출처: https://dev-coco.tistory.com/189 [슬기로운 개발생활:티스토리]
 
 
 ### 참조 타입(reference type) 전달 방식
