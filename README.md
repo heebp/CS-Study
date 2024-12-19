@@ -49,19 +49,19 @@
 - [트랜잭션(Transaction)](https://github.com/S2gamzaS2/CS-Study/blob/main/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98(Transaction).md)
 - [트랜잭션 격리 수준(Transaction Isolation Level)](https://github.com/S2gamzaS2/CS-Study/blob/main/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%20%EA%B2%A9%EB%A6%AC%20%EC%88%98%EC%A4%80(Transaction%20Isolation%20Level).md)
 - [저장 프로시저(Stored PROCEDURE)](https://github.com/S2gamzaS2/CS-Study/blob/main/Database/%EC%A0%80%EC%9E%A5%20%ED%94%84%EB%A1%9C%EC%8B%9C%EC%A0%80(Stored%20PROCEDURE).md)
-- 레디스(Redis)
+- [레디스(Redis)](https://github.com/S2gamzaS2/CS-Study/blob/main/Database/Redis.md)
 
 ### 🔸 JAVA
-- 객체지향(상속, 다형성, 캡슐화 등)
-- JVM 메모리 구조
-- 컴파일 과정
-- 다양한 GC(parellel, g1gc 등)
-- JRE, JDK, JVM의 구분
-- 자바 메모리관리(Xms, Xmx)
-- Call by Value vs Call by Reference
-- String Immutable(String constant pool, "a" vs new String("a"))
-- Auto Boxing & UnBoxing
-- Error vs Exception
+- [객체지향(상속, 다형성, 캡슐화 등)](https://github.com/S2gamzaS2/CS-Study/blob/main/Java/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5(%EC%83%81%EC%86%8D%2C%20%EB%8B%A4%ED%98%95%EC%84%B1%2C%20%EC%BA%A1%EC%8A%90%ED%99%94%20%EB%93%B1).md)
+- [JVM 메모리 구조](https://github.com/S2gamzaS2/CS-Study/blob/main/Java/JVM%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B5%AC%EC%A1%B0.md)
+- [컴파일 과정](https://github.com/S2gamzaS2/CS-Study/blob/main/Java/%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EA%B3%BC%EC%A0%95.md)
+- [다양한 GC(parellel, g1gc 등)](https://github.com/S2gamzaS2/CS-Study/blob/main/Java/%EB%8B%A4%EC%96%91%ED%95%9C%20GC(parellel%2C%20g1gc%20%EB%93%B1)%2015d82afb1da38009942ec48187767c16.md)
+- [JRE, JDK, JVM의 구분](https://github.com/S2gamzaS2/CS-Study/blob/main/Java/JRE%2C%20JDK%2C%20JVM%EC%9D%98%20%EA%B5%AC%EB%B6%84.md)
+- [자바 메모리관리(Xms, Xmx)](https://github.com/S2gamzaS2/CS-Study/blob/main/Java/%EC%9E%90%EB%B0%94%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EA%B4%80%EB%A6%AC(Xms%2C%20Xmx)%2015d82afb1da380248696c284c09e1b9e.md)
+- [Call by Value vs Call by Reference](https://github.com/S2gamzaS2/CS-Study/blob/main/Java/call%20by%20value%20%20VS%20call%20by%20reference.md)
+- [String Immutable(String constant pool, "a" vs new String("a"))](https://github.com/S2gamzaS2/CS-Study/blob/main/Java/String%20Immutable(String%20constant%20pool%2C%20%22a%22%20vs%20new%20String(%22a%22)).md)
+- [Auto Boxing & UnBoxing](https://github.com/S2gamzaS2/CS-Study/blob/main/Java/AutoBoxing%20%26%20UnBoxing.md)
+- [Error vs Exception](https://github.com/S2gamzaS2/CS-Study/blob/main/Java/Error%20vs%20Exception.md)
 - Checked vs UnChecked Exception
 - 비동기처리 문법 비교
 - Java 8의 특징
