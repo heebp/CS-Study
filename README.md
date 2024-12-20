@@ -64,7 +64,7 @@
 - [Error vs Exception](https://github.com/S2gamzaS2/CS-Study/blob/main/Java/Error%20vs%20Exception.md)
 - Checked vs UnChecked Exception
 - 비동기처리 문법 비교
-- Java 8의 특징
+- Java 8/Java 11/Java 17
 - Lambda(+ Functional Interface)
 - Stream API
 - Default Method
