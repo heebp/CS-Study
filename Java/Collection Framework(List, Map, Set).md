@@ -407,7 +407,7 @@ for(Map.Entry<String, String> entry : entries) {
 
 <br>
 
-## 4-1. HashTable
+### 4-1. HashTable
 
 ![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbFwKRi%2FbtrXIQy0llI%2FKaFsgavJ31eDaJrXgW4040%2Fimg.png)
 
