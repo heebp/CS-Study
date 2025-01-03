@@ -16,13 +16,14 @@ ApplicationContext
   - 클라이언트에서 빈을 호출한다.
   - 클라이언트가 요청한 빈이 목록에 있는지 확인한다.
   - 설정한 클래스에 빈을 생성하도록 요청하고 생성된 빈을 반환 받는다.
-  ![bean 이미지](/Java/images/bean.png)
+  ![bean 이미지](/Spring/images/bean.png)
 
 > 자바에서 ApplicationContext로 스프링 컨테이너 생성하기
-  ![configuration 이미지](/Java/images/configuration.png)
+
+  ![configuration 이미지](/Spring/images/configuration.png)
   - @Configuration 클래스를 만든다.
 
-  ![applicationcontext 이미지](/Java/images/applicationcontext.png)
+  ![applicationcontext 이미지](/Spring/images/applicationcontext.png)
   - 만들어둔 @Configuration 클래스를 등록하여 해당하는 객체를 가져온다.
 
 ### 참고 사이트
