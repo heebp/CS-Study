@@ -80,11 +80,11 @@
 - 서블릿
 - JSP
 - MVC 패턴
-- ApplicationContext
-- PSA, IoC, AOP, POJO(각각에 대한 내용과 도입 이유)
+- [ApplicationContext](https://github.com/S2gamzaS2/CS-Study/blob/main/Spring/ApplicationContext.md)
+- PSA, IoC, AOP, POJO
 - Bean(Scope)
 - Filter, Interceptor
-- @Autowired 주입 방법별 차이(Field, Setter, Constructor Injection)
+- [@Autowired 주입 방법별 차이(Field, Setter, Constructor Injection)](https://github.com/S2gamzaS2/CS-Study/blob/main/Spring/%40Autowired%20%EC%A3%BC%EC%9E%85%20%EB%B0%A9%EB%B2%95%EB%B3%84%20%EC%B0%A8%EC%9D%B4(Field%2C%20Setter%2C%20Constructor%20Injection).md)
 - Spring vs Spring Boot
 - Web MVC 요청 처리 과정(DispatcherServlet을 중심으로)
 - @Controller vs @RestController
