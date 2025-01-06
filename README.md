@@ -81,8 +81,8 @@
 - JSP
 - MVC 패턴
 - [ApplicationContext](https://github.com/S2gamzaS2/CS-Study/blob/main/Spring/ApplicationContext.md)
-- PSA, IoC, AOP, POJO
-- Bean(Scope)
+- [PSA, IoC, AOP, POJO](https://github.com/S2gamzaS2/CS-Study/blob/main/Spring/POJO%2C%20PSA%2C%20IoC%2C%20AOP.md)
+- [Bean(Scope)](https://github.com/S2gamzaS2/CS-Study/blob/main/Spring/Bean(Scope).md)
 - Filter, Interceptor
 - [@Autowired 주입 방법별 차이(Field, Setter, Constructor Injection)](https://github.com/S2gamzaS2/CS-Study/blob/main/Spring/%40Autowired%20%EC%A3%BC%EC%9E%85%20%EB%B0%A9%EB%B2%95%EB%B3%84%20%EC%B0%A8%EC%9D%B4(Field%2C%20Setter%2C%20Constructor%20Injection).md)
 - Spring vs Spring Boot
