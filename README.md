@@ -90,7 +90,7 @@
 - [@Controller vs @RestController](https://github.com/S2gamzaS2/CS-Study/blob/main/Spring/%40Controller%20vs%20%40RestController.md)
 - [ViewResolver](https://github.com/S2gamzaS2/CS-Study/blob/main/Spring/ViewResolver.md)
 - @Valid 사용해서 DTO 검증
-- Spring Security 개념, 인증 처리 과정, currentUser 정보
+- [Spring Security 개념, 인증 처리 과정, currentUser 정보](https://github.com/S2gamzaS2/CS-Study/blob/main/Spring/Spring%20Security.md)
 
 ### 🔸 JPA
 - [JPA와 Hibernate](https://github.com/S2gamzaS2/CS-Study/blob/main/JPA/JPA%EC%99%80%20Hibernate.md)
