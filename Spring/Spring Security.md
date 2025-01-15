@@ -2,11 +2,11 @@
 
 #### 어플리케이션 보안 구성
 
-1. 인증(Authentication) : 해당 사용자가 본인이 맞는지 확인하는 과정
-2. 인가(Authorization) : 해당 사용자가 요청하는 지원을 실행할 수 있는 권한이 있는기 확인하는 과정
+1.  인증(Authentication) : 해당 사용자가 본인이 맞는지 확인하는 과정
+2.  인가(Authorization) : 해당 사용자가 요청하는 지원을 실행할 수 있는 권한이 있는기 확인하는 과정
 
-   Spring Security는 기본적으로 인증 절차를 거친 후 인가 절차를 진행 <br>
-   인가 과정에서 해당 리소스에 접근 권한이 있는지 확인
+        Spring Security는 기본적으로 인증 절차를 거친 후 인가 절차를 진행 <br>
+        인가 과정에서 해당 리소스에 접근 권한이 있는지 확인
 
 Spring Security는 이러한 인증과 인가를 위해 **Principal**을 아이디로, **Credential**을 비밀번호로 사용하는 **Credential 기반의 인증 방식**을 사용 <br>
 
