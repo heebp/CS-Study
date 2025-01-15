@@ -77,7 +77,7 @@
 
 ### 🔸 Spring
 - 웹 애플리케이션 이해
-- 서블릿
+- [Servlet](https://github.com/S2gamzaS2/CS-Study/blob/main/Spring/Servlet.md)
 - JSP
 - MVC 패턴
 - [ApplicationContext](https://github.com/S2gamzaS2/CS-Study/blob/main/Spring/ApplicationContext.md)
@@ -87,15 +87,15 @@
 - [@Autowired 주입 방법별 차이(Field, Setter, Constructor Injection)](https://github.com/S2gamzaS2/CS-Study/blob/main/Spring/%40Autowired%20%EC%A3%BC%EC%9E%85%20%EB%B0%A9%EB%B2%95%EB%B3%84%20%EC%B0%A8%EC%9D%B4(Field%2C%20Setter%2C%20Constructor%20Injection).md)
 - Spring vs Spring Boot
 - Web MVC 요청 처리 과정(DispatcherServlet을 중심으로)
-- @Controller vs @RestController
-- ViewResolver
+- [@Controller vs @RestController](https://github.com/S2gamzaS2/CS-Study/blob/main/Spring/%40Controller%20vs%20%40RestController.md)
+- [ViewResolver](https://github.com/S2gamzaS2/CS-Study/blob/main/Spring/ViewResolver.md)
 - @Valid 사용해서 DTO 검증
 - Spring Security 개념, 인증 처리 과정, currentUser 정보
 
 ### 🔸 JPA
-- JPA와 Hibernate
+- [JPA와 Hibernate](https://github.com/S2gamzaS2/CS-Study/blob/main/JPA/JPA%EC%99%80%20Hibernate.md)
 - 영속성 컨텍스트(캐시, 동일성보장, 변경감지, 트랜잭션 지연)
-- Eager, Lazy Loading
+- [Eager, Lazy Loading](https://github.com/S2gamzaS2/CS-Study/blob/main/JPA/Eager%2C%20Lazy%20Loading.md)
 - n+1 문제
 - 다대다 해결 전략
 - JPA의 캐시
