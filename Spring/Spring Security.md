@@ -30,7 +30,7 @@ Spring Security는 이러한 인증과 인가를 위해 **Principal**을 아이�
 
 ### Spring Security 구조의 처리 과정
 
-![](/Spring/images/SpringSecurity.pngs)
+![](/Spring/images/SpringSecurity.png)
 
 1. 사용자가 로그인 정보와 함께 인증 요청 (Http Request)
 2. AuthenticationFilter가 요청을 가로채고, 가로챈 정보를 통해 UsernamePasswordAuthenticationToken의 인증용 객체 생성
