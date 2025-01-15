@@ -64,7 +64,7 @@
 - [Error vs Exception](https://github.com/S2gamzaS2/CS-Study/blob/main/Java/Error%20vs%20Exception.md)
 - [Checked vs UnChecked Exception](https://github.com/S2gamzaS2/CS-Study/blob/main/Java/Checked%20vs%20UnChecked%20Exception.md)
 - [비동기처리 문법 비교](https://github.com/S2gamzaS2/CS-Study/blob/main/Java/%5BJava%5D%20%EB%B9%84%EB%8F%99%EA%B8%B0%EC%B2%98%EB%A6%AC%20%EB%AC%B8%EB%B2%95%20%EB%B9%84%EA%B5%90.md)
-- Java 8/Java 11/Java 17
+- [Java 8/Java 11/Java 17](https://github.com/S2gamzaS2/CS-Study/blob/main/Java/Java%208%2CJava%2011%2CJava%2017)
 - [Lambda(+ Functional Interface)](https://github.com/S2gamzaS2/CS-Study/blob/main/Java/Lambda(%2B%20Functional%20Interface).md)
 - [Stream API](https://github.com/S2gamzaS2/CS-Study/blob/main/Java/Stream%20API.md)
 - [Default Method](https://github.com/S2gamzaS2/CS-Study/blob/main/Java/Default%20Method.md)
@@ -77,7 +77,7 @@
 
 ### 🔸 Spring
 - 웹 애플리케이션 이해
-- 서블릿
+- [Servlet](https://github.com/S2gamzaS2/CS-Study/blob/main/Spring/Servlet.md)
 - JSP
 - MVC 패턴
 - [ApplicationContext](https://github.com/S2gamzaS2/CS-Study/blob/main/Spring/ApplicationContext.md)
@@ -87,15 +87,15 @@
 - [@Autowired 주입 방법별 차이(Field, Setter, Constructor Injection)](https://github.com/S2gamzaS2/CS-Study/blob/main/Spring/%40Autowired%20%EC%A3%BC%EC%9E%85%20%EB%B0%A9%EB%B2%95%EB%B3%84%20%EC%B0%A8%EC%9D%B4(Field%2C%20Setter%2C%20Constructor%20Injection).md)
 - Spring vs Spring Boot
 - Web MVC 요청 처리 과정(DispatcherServlet을 중심으로)
-- @Controller vs @RestController
-- ViewResolver
+- [@Controller vs @RestController](https://github.com/S2gamzaS2/CS-Study/blob/main/Spring/%40Controller%20vs%20%40RestController.md)
+- [ViewResolver](https://github.com/S2gamzaS2/CS-Study/blob/main/Spring/ViewResolver.md)
 - @Valid 사용해서 DTO 검증
 - Spring Security 개념, 인증 처리 과정, currentUser 정보
 
 ### 🔸 JPA
-- JPA와 Hibernate
+- [JPA와 Hibernate](https://github.com/S2gamzaS2/CS-Study/blob/main/JPA/JPA%EC%99%80%20Hibernate.md)
 - 영속성 컨텍스트(캐시, 동일성보장, 변경감지, 트랜잭션 지연)
-- Eager, Lazy Loading
+- [Eager, Lazy Loading](https://github.com/S2gamzaS2/CS-Study/blob/main/JPA/Eager%2C%20Lazy%20Loading.md)
 - n+1 문제
 - 다대다 해결 전략
 - JPA의 캐시
